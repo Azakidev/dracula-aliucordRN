@@ -198,7 +198,7 @@
     "REDESIGN_CHANNEL_NAME_CATEGORY_TEXT": [
       "#f8f8f2",
       false,
-      "#f8f8f2"
+      "#b7b7b3"
     ],
     "REDESIGN_CHANNEL_MESSAGE_PREVIEW_TEXT": [
       "#b7b7b3",
@@ -219,6 +219,11 @@
       "#282a36",
       false,
       "#000000"
+    ],
+    "PANEL_BG": [
+      "#44475a",
+      false,
+      "#282a36"
     ]
   },
   "rawColors": {
