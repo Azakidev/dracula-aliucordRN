@@ -1,9 +1,9 @@
-# Dracula theme for Vendetta
+# Dracula theme for DiscordRN mods
 
-This is a theme following the dracula color scheme for Vendetta.
-This theme will NOT work in aliucord.
+This is a theme following the dracula color scheme for Bunny/Pyoncord.
+Might not work in older discord versions, WILL not work in Kotlin versions of discord.
 
-If I missed anything or did something dumb on the theme, feel free to let me know.
+This is the work in progress branch, where I go insane, and so do the commit messages.
 
 ## Installation
 
