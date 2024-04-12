@@ -195,21 +195,22 @@
       false,
       "#ff5555"
     ],
-    "REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
-      "#b7b7b3",
-      false,
-      "#b7b7b3"
-    ],
+    
     "REDESIGN_CHANNEL_NAME_TEXT": [
       "#f8f8f2",
       false,
       "#f8f8f2"
+    ],
+    "REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
+      "#b7b7b3",
+      false,
+      "#b7b7b3"
     ]
   },
   "rawColors": {
     "PRIMARY_100": "#b7b7b3",
     "PRIMARY_300": "#b7b7b3",
-    "PRIMARY_360": "#b7b7b3",
+    "PRIMARY_360": "#44475a",
     "PRIMARY_400": "#b7b7b3",
     "PRIMARY_500": "#b7b7b3",
     "PRIMARY_600": "#282a36",
