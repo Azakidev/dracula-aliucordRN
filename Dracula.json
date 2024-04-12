@@ -201,9 +201,9 @@
       "#f8f8f2"
     ],
     "REDESIGN_CHANNEL_MESSAGE_PREVIEW_TEXT": [
-      "#f00",
+      "#b7b7b3",
       false,
-      "#f00"
+      "#b7b7b3"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
       "#f8f8f2",
@@ -218,8 +218,8 @@
   },
   "rawColors": {
     "PRIMARY_100": "#b7b7b3",
-    "PRIMARY_300": "#b7b7b3",
-    "PRIMARY_360": "#44475a",
+    "PRIMARY_300": "#f00",
+    "PRIMARY_360": "#b7b7b3",
     "PRIMARY_400": "#b7b7b3",
     "PRIMARY_500": "#b7b7b3",
     "PRIMARY_600": "#282a36",
