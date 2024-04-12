@@ -9,10 +9,10 @@ This is the work in progress branch, where I go insane, and so do the commit mes
 
 Go to Dracula.json, view as raw, copy the link, then go into your settings in Vendetta, themes and tap the + button, then paste the link if not there already to add it
 
-## Screenshot
+![](Screenshots/SS1.png)
+![](Screenshots/SS2.png)
 
-![](Screenshots/screenshots-1.png)
+Some from Midnight mode
 
-Some from TabsV2
-
-![](Screenshots/screenshots-2.png)
+![](Screenshots/SS1-M.png)
+![](Screenshots/SS2-M.png)
