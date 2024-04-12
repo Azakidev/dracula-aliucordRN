@@ -214,6 +214,11 @@
       "#b7b7b3",
       false,
       "#b7b7b3"
+    ],
+    "EXPRESSION_PICKER_BG": [
+      "#282a36",
+      false,
+      "#000000"
     ]
   },
   "rawColors": {
@@ -241,6 +246,6 @@
     "PLUM_3": "#8be9fd",
     "PLUM_9": "#f8f8f2",
     "PLUM_10": "#b7b7b3",
-    "PLUM_16": "#44475a"
+    "PLUM_16": "#f00"
   }
 }
