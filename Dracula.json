@@ -211,9 +211,9 @@
       "#f8f8f2"
     ],
     "REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
-      "#44475a",
+      "#b7b7b3",
       false,
-      "#44475a"
+      "#b7b7b3"
     ]
   },
   "rawColors": {
