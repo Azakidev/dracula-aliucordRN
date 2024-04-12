@@ -131,7 +131,7 @@
       "#282a36"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#bd93f9",
+      "#6272a4",
       false,
       "#6272a4"
     ],
@@ -241,7 +241,6 @@
     "PLUM_3": "#8be9fd",
     "PLUM_9": "#f8f8f2",
     "PLUM_10": "#b7b7b3",
-    "PLUM_16": "#44475a",
-    "PLUM_22": "#ffb86c"
+    "PLUM_16": "#44475a"
   }
 }
