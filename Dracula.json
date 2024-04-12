@@ -201,9 +201,9 @@
       "#f8f8f2"
     ],
     "REDESIGN_CHANNEL_MESSAGE_PREVIEW_TEXT": [
-      "#b7b7b3",
+      "#f00",
       false,
-      "#b7b7b3"
+      "#f00"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
       "#f8f8f2",
@@ -211,9 +211,9 @@
       "#f8f8f2"
     ],
     "REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
-      "#44475a",
+      "#b7b7b3",
       false,
-      "#44475a"
+      "#b7b7b3"
     ]
   },
   "rawColors": {
