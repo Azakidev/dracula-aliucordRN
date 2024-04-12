@@ -25,7 +25,7 @@
       "#ffffff"
     ],
     "TEXT_NORMAL": [
-      "#f8f8f2",
+      "#ffffff",
       false,
       "#ffffff"
     ],
@@ -37,7 +37,7 @@
     "TEXT_LINK": [
       "#bd93f9",
       false,
-      "#6b4c98"
+      "#bd93f9"
     ],
     "INTERACTIVE_NORMAL": [
       "#a2d7e1",
@@ -52,7 +52,7 @@
     "INTERACTIVE_ACTIVE": [
       "#f8f8f2",
       false,
-      "#bd93f9"
+      "#f8f8f2"
     ],
     "INTERACTIVE_MUTED": [
       "#b7b7b3",
@@ -194,6 +194,16 @@
       "#ff5555",
       false,
       "#ff5555"
+    ],
+    "REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
+      "#b7b7b3",
+      false,
+      "#b7b7b3"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#f8f8f2",
+      false,
+      "#f8f8f2"
     ]
   },
   "rawColors": {
@@ -209,11 +219,11 @@
 
     "BRAND_260": "#f8f8f2",
     "BRAND_500": "#bd93f9",
-    "BRAND_900": "#8be9fd",
+    "BRAND_560": "#8be9fd",
     
     "BLUE_345": "#8be9fd",
     "YELLOW_300": "#f1fa8c",
-    "GREEN_600": "#50fa7b",
+    "GREEN_360": "#50fa7b",
     "RED_400": "#ff5555",
     "BLACK_500": "#282a3622",
 
