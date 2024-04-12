@@ -55,9 +55,9 @@
       "#bd93f9"
     ],
     "INTERACTIVE_MUTED": [
-      "#d9d9d9",
+      "#b7b7b3",
       false,
-      "#d9d9d9"
+      "#b7b7b3"
     ],
     "BACKGROUND_PRIMARY": [
       "#282A36",
@@ -210,13 +210,17 @@
     "BRAND_260": "#f8f8f2",
     "BRAND_500": "#bd93f9",
     "BRAND_900": "#8be9fd",
-
-    "DANGER": "#ff5555", 
     
     "BLUE_345": "#8be9fd",
     "YELLOW_300": "#f1fa8c",
     "GREEN_600": "#50fa7b",
     "RED_400": "#ff5555",
-    "BLACK_500": "#282a3699"
+    "BLACK_500": "#282a3622",
+
+    "PLUM_1": "#f8f8f2",
+    "PLUM_3": "#8be9fd",
+    "PLUM_10": "#b7b7b3",
+    "PLUM_16": "#44475a",
+    "PLUM_22": "#ffb86c"
   }
 }
