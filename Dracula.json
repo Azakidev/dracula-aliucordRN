@@ -55,9 +55,9 @@
       "#f8f8f2"
     ],
     "INTERACTIVE_MUTED": [
-      "#b7b7b3",
+      "#44475a",
       false,
-      "#b7b7b3"
+      "#44475a"
     ],
     "BACKGROUND_PRIMARY": [
       "#282A36",
