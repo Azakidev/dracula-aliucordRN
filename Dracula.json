@@ -195,14 +195,18 @@
       false,
       "#ff5555"
     ],
-    
+    "REDESIGN_CHANNEL_NAME_CATEGORY_TEXT": [
+      "#f8f8f2",
+      false,
+      "#f8f8f2"
+    ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
       "#f8f8f2",
       false,
       "#f8f8f2"
     ],
     "REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
-      "#b7b7b3",
+      "#F00",
       false,
       "#b7b7b3"
     ]
