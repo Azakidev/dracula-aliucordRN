@@ -1,3 +1,7 @@
+> [!IMPORTANT]  
+> This is no longer being worked on, feel free to fork it for porting to newer versions and/or different mods.
+
+
 # Dracula theme for DiscordRN mods
 
 This is a theme following the dracula color scheme for Vendetta and Bunny/Pyoncord.
